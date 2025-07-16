@@ -6,7 +6,7 @@ You can preview the full design on Figma using the link below:
 
 ## images
 
-<img width="50" height="200" alt="image" src="https://github.com/user-attachments/assets/ccfcdc99-60af-47a8-a14f-760c20a60ad7" />
+<img width="200" height="600" alt="image" src="https://github.com/user-attachments/assets/ccfcdc99-60af-47a8-a14f-760c20a60ad7" />
 
 
 
